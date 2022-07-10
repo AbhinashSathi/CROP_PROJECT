@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489871256140",
+    "project_id": "crop-protection-9b61b",
+    "storage_bucket": "crop-protection-9b61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489871256140:android:a4279add8a18d2884d62e9",
+        "android_client_info": {
+          "package_name": "com.abhi.cropproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489871256140-1mr5t61qr4qivvvbhb8eoj5v2io7t0l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXn94sN_4Q4YXxfEZJrUDtwCCH7OEHak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489871256140-1mr5t61qr4qivvvbhb8eoj5v2io7t0l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

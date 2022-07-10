@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>489871256140-djuflm7b6e2iqo5mbmnk5842hglptjf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489871256140-djuflm7b6e2iqo5mbmnk5842hglptjf1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCThP0OqK_RxW1qshCogYlt0bfnFs84TDM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489871256140</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abhi.cropproject</string>
+	<key>PROJECT_ID</key>
+	<string>crop-protection-9b61b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crop-protection-9b61b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489871256140:ios:a22e3e4ac41020844d62e9</string>
+</dict>
+</plist>
